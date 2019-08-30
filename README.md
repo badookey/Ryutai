@@ -17,7 +17,7 @@ Processing 3.3.6 (https://www.leapmotion.com) with libraries:
 *All libraries available within Processing's internal library viewer.*
 
 # Usage:
-- Plug in Leap motion, orient it to face it's camera's towards the Ceiling
+- Plug in Leap motion, orient it to face towards the Ceiling
 - Open Ryutai.pde in Processing 3.3.6
 -- Ryutai depends upon Bubble.pde, however Processing should automatically load Bubble.pde in a different tab
 - Click the 'Play' button to run Ryutai
