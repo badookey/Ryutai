@@ -2,7 +2,7 @@
 
 Ryutai is an interactive experience focusing on the meditative qualities of flowing water. 
 This was initally created for the subject 'Interactive Media' at the University of Technology Sydney.
-![Ryutai Screenshot](screenshots/ryutai.png?raw=true "Ryutai")
+![Ryutai Screenshot](screenshots/Ryutai.png?raw=true "Ryutai")
 
 # Setup
 The following hardware and software is required in order to run Ryutai.
