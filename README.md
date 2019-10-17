@@ -1,7 +1,7 @@
 # Ryutai
 
 Ryutai is an interactive experience focusing on the meditative qualities of flowing water. 
-This was initally created for the subject 'Interactive Media' at the University of Technology Sydney.
+This was initally created for the subject 'Interactive Media' at the University of Technology Sydney. Use your hands to play with a liquid-like substance and pop bubbles to make gong noises.
 ![Ryutai Screenshot](screenshots/Ryutai.png?raw=true "Ryutai")
 
 # Setup
