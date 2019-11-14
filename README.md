@@ -9,7 +9,7 @@ The following hardware and software is required in order to run Ryutai.
 
 Leap Motion Controller (https://www.leapmotion.com)
 
-Processing 3.3.6 (https://www.leapmotion.com) with libraries:
+Processing 3.3.6 (https://processing.org/) with libraries:
 - Beads
 - PixelFlow
 - Leap Motion library for Processing
